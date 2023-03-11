@@ -1,0 +1,15 @@
+C:\Users\50372\Desktop\EjercicioForKatherinMartinez\EjercicioForKatherinMartinez\bin\Debug\net6.0\EjercicioForKatherinMartinez.exe
+C:\Users\50372\Desktop\EjercicioForKatherinMartinez\EjercicioForKatherinMartinez\bin\Debug\net6.0\EjercicioForKatherinMartinez.deps.json
+C:\Users\50372\Desktop\EjercicioForKatherinMartinez\EjercicioForKatherinMartinez\bin\Debug\net6.0\EjercicioForKatherinMartinez.runtimeconfig.json
+C:\Users\50372\Desktop\EjercicioForKatherinMartinez\EjercicioForKatherinMartinez\bin\Debug\net6.0\EjercicioForKatherinMartinez.dll
+C:\Users\50372\Desktop\EjercicioForKatherinMartinez\EjercicioForKatherinMartinez\bin\Debug\net6.0\EjercicioForKatherinMartinez.pdb
+C:\Users\50372\Desktop\EjercicioForKatherinMartinez\EjercicioForKatherinMartinez\obj\Debug\net6.0\EjercicioForKatherinMartinez.csproj.AssemblyReference.cache
+C:\Users\50372\Desktop\EjercicioForKatherinMartinez\EjercicioForKatherinMartinez\obj\Debug\net6.0\EjercicioForKatherinMartinez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50372\Desktop\EjercicioForKatherinMartinez\EjercicioForKatherinMartinez\obj\Debug\net6.0\EjercicioForKatherinMartinez.AssemblyInfoInputs.cache
+C:\Users\50372\Desktop\EjercicioForKatherinMartinez\EjercicioForKatherinMartinez\obj\Debug\net6.0\EjercicioForKatherinMartinez.AssemblyInfo.cs
+C:\Users\50372\Desktop\EjercicioForKatherinMartinez\EjercicioForKatherinMartinez\obj\Debug\net6.0\EjercicioForKatherinMartinez.csproj.CoreCompileInputs.cache
+C:\Users\50372\Desktop\EjercicioForKatherinMartinez\EjercicioForKatherinMartinez\obj\Debug\net6.0\EjercicioForKatherinMartinez.dll
+C:\Users\50372\Desktop\EjercicioForKatherinMartinez\EjercicioForKatherinMartinez\obj\Debug\net6.0\refint\EjercicioForKatherinMartinez.dll
+C:\Users\50372\Desktop\EjercicioForKatherinMartinez\EjercicioForKatherinMartinez\obj\Debug\net6.0\EjercicioForKatherinMartinez.pdb
+C:\Users\50372\Desktop\EjercicioForKatherinMartinez\EjercicioForKatherinMartinez\obj\Debug\net6.0\EjercicioForKatherinMartinez.genruntimeconfig.cache
+C:\Users\50372\Desktop\EjercicioForKatherinMartinez\EjercicioForKatherinMartinez\obj\Debug\net6.0\ref\EjercicioForKatherinMartinez.dll
